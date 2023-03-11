@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hola, Soy Jose Domingo De Luna.
+## Me encanta aprender cosas nuevas cada que tengo la oportunidad en un nuevo projecto.
 
 <!--
+### Hi there 👋
+
 **josedomingodeluna/josedomingodeluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
